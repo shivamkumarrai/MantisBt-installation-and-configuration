@@ -1,11 +1,9 @@
 # MantisBt-installation-and-configuration
-How to install Mantisbt Bugtracking Tool | Email configuration in XAMPP server 
-Ans:   
 How to install MantisBt bug tracking tool and email-configuration setup?
 Ans:
 
- Installation video- till 12:40 minutes
-email configuration - after 12:40 minutes
+Installation video- till 12:40 minutes
+And email configuration - after 12:40 minutes
 
 
 01. Download mantisbt from the link- https://www.mantisbt.org/
